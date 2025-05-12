@@ -31,7 +31,7 @@ Bonjour ! Je suis **Alice**, ingénieure **DevOps** chez [Axshop], où je conço
 
 ## 📫 Me contacter
 
-- ✉️ alice@sccm.com *(adresse fictive)*
+- ✉️ alice@sccm.com
 - 🧪 GitHub : @alice-dpt
 
 ---
