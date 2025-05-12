@@ -1,5 +1,4 @@
-# 👩‍💻 Alice Dupont — DevOps @ Axshop | OSINT & Cybersecurity
-
+# 👩‍💻 Alice Dupont — DevOps @ Axshop 
 Bonjour ! Je suis **Alice**, ingénieure **DevOps** chez [Axshop], où je conçois, automatise et sécurise des environnements cloud à grande échelle.  
 
 ---
