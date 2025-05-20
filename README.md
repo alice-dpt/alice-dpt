@@ -28,12 +28,4 @@ Bonjour ! Je suis **Alice**, ingénieure **DevOps** chez [Axshop], où je conço
 
 ---
 
-
-## 📫 Me contacter
-
-- ✉️ alice@sccm.com
-- 🧪 GitHub : @alice-dpt
-
----
-
 > *“Chaque ligne de code et chaque adresse IP raconte une histoire. Il faut juste les écouter.”*
